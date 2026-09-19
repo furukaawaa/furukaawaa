@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&width=500&lines=Estudante+de+Dev.+%26+An%C3%A1lise+de+Dados+%F0%9F%93%8A;Apaixonado+por+Tecnologia+%26+Hardware+%F0%9F%92%BB;Focado+em+Python%2C+SQL+%26+Infraestrutura+%F0%9F%90%8D;Transformando+conhecimento+em+solu%C3%A7%C3%B5es!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
+
 ---
 
 Meu nome é Luís Miguel Furukawa Miranda, tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Dados** e apaixonado por tecnologia. Tenho interesse em programação, desenvolvimento de software, dados e infraestrutura.
