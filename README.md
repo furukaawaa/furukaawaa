@@ -19,13 +19,6 @@ Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir
             title="Conecte-se comigo no LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
-    </a>
-    <a href="https://github.com/furukaawaa?tab=repositories&sort=stargazers" target="_blank">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU_GITHUB?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
 
 ---
 
