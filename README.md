@@ -6,7 +6,7 @@ Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento, análise
 Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir como profissional da área de TI.
 
 <p align="left">
-    <a href="https://instagram.com/furukaawaa?stkn=MWY5dmkyNjg5bG02ZQ==" target="_blank">
+    <a href="https://www.instagram.com/furukaawaa?stkn=MWY5dmkyNjg5bG02ZQ==" target="_blank">
         <img 
             alt="Instagram" 
             title="Siga-me no Instagram" 
