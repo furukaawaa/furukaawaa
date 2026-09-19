@@ -6,6 +6,8 @@
   </a>
 </p>
 
+---
+
 Meu nome é Luís Miguel Furukawa Miranda, tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Dados** e apaixonado por tecnologia. Tenho interesse em programação, desenvolvimento de software, dados e infraestrutura.
 Possuo conhecimentos e experiência prática com **Python, SQL, hardware, redes e suporte técnico**, além de experiência com montagem e manutenção de computadores, configuração de sistemas e dispositivos de rede.
 Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento, análise de dados e tecnologia**, buscando transformar meus conhecimentos em projetos e soluções práticas.
