@@ -13,15 +13,15 @@
 
 <p align="center">
   <a href="https://instagram.com/furukaawaa" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/9333EA" alt="Instagram" width="28" height="28" />
+    <img src="https://api.iconify.design/simple-icons:instagram.svg?color=%239333ea" alt="Instagram" width="26" height="26" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/luismiguelfurukawamiranda" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/9333EA" alt="LinkedIn" width="28" height="28" />
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%239333ea" alt="LinkedIn" width="26" height="26" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/furukaawaa?tab=followers" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/9333EA" alt="GitHub" width="28" height="28" />
+    <img src="https://api.iconify.design/simple-icons:github.svg?color=%239333ea" alt="GitHub" width="26" height="26" />
   </a>
 </p>
 
@@ -42,6 +42,6 @@
 ### 📊 Cyber Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=furukaawaa&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furukaawaa&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=furukaawaa&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=furukaawaa&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
