@@ -25,6 +25,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=furukaawaa&label=PROFILE+VIEWS&style=flat-square&color=9333ea" alt="Views" />
+</p>
+
 ---
 
 ### 👾 Tech Stack
@@ -38,7 +42,10 @@
 ### 📊 Cyber Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/furukaawaa?style=for-the-badge&logo=github&logoColor=a855f7&label=SEGUIDORES&labelColor=0d1117&color=9333ea" alt="Followers" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=furukaawaa&label=PROFILE+VIEWS&style=for-the-badge&color=9333ea" alt="Views" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=furukaawaa&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=9333ea&title_color=a855f7&locale=pt-br" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=furukaawaa&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=a855f7" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furukaawaa&hide_border=true&background=0d1117&ring=9333ea&fire=9333ea&currStreakNum=c9d1d9&currStreakLabel=a855f7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&locale=pt_BR" alt="GitHub Streak" />
 </p>
