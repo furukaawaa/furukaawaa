@@ -13,15 +13,15 @@
 
 <p align="center">
   <a href="https://instagram.com/furukaawaa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-9333EA?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram/9333EA" alt="Instagram" width="28" height="28" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/luismiguelfurukawamiranda" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-9333EA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/9333EA" alt="LinkedIn" width="28" height="28" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/furukaawaa?tab=followers" target="_blank">
-    <img src="https://img.shields.io/badge/Seguidores-1F2937?style=for-the-badge&logo=github&logoColor=9333EA" alt="Seguidores" />
+    <img src="https://cdn.simpleicons.org/github/9333EA" alt="GitHub" width="28" height="28" />
   </a>
 </p>
 
